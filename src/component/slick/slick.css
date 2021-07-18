@@ -1,0 +1,128 @@
+.slick-dots li button:before {
+  font-size: 12px;
+}
+
+.slick-dots {
+    position: absolute;
+    bottom: 10px;
+
+
+
+}
+
+.slick-next {
+    display: none;
+}
+
+.iclukItme__pic{
+    width: 100%;
+    border-radius: 6px;
+}
+
+.iclukItme__time{
+    color: #808080;
+margin-top: 21px;
+margin-bottom: 12px;
+
+}
+
+.iclukItme__text{
+    color: #48474D;
+    font-family: Nunito Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: left;
+
+
+}
+
+
+.slick1__button{
+    height: 36.18231964111328px;
+    width: 32.301944732666016px;
+
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px #A1A1A1 solid;
+    position: absolute;
+    cursor: pointer;
+}
+
+.slick1__right{
+top: 48%;
+right: 10%;
+}
+.slick1__left{
+top: 48%;
+left: 10%;
+}
+
+
+.position__relative{
+    position: relative;
+}
+
+.slickk__basliq{
+    color: #48474D;
+    font-family: Nunito Sans;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    letter-spacing: 0em;
+    text-align: left;
+    
+}
+
+.uclukItem{
+    margin-right: 5px;
+    margin-left: 5px;
+    /* background-color: red; */
+    width: 90% !important;
+}
+
+.slickuc__left{
+position: static;
+color: #48474D;
+
+}
+
+.slickuc__right{
+    position: static;
+    color: #48474D;
+
+}
+
+@media only screen and (max-width: 480px) {
+
+
+
+    .uclukItem{
+        width: 98% !important;
+    }
+
+
+
+}
+
+
+
+
+
+@media only screen and (max-width: 800px) {
+
+
+
+
+
+
+}
+
+
+
+
+

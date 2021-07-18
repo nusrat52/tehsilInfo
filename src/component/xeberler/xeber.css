@@ -1,0 +1,71 @@
+.xeber__header{
+    /* font-family: Nunito Sans; */
+font-size: 33px;
+font-style: normal;
+font-weight: 700;
+line-height: 45px;
+letter-spacing: 0em;
+text-align: left;
+color: #48474D;
+margin-bottom: 21px;
+
+}
+
+.xeber__text{
+    font-family: Nunito Sans;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: left;
+color: #808080;
+margin-bottom: 20px;
+}
+
+.xeber__img{
+    width: 100%;
+    margin-bottom: 55px;
+}
+
+
+
+.container__sp{
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+
+.xeber__textt{
+
+}
+
+.xeebr__paylas{
+    font-family: Nunito Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: left;
+color: #48474D;
+
+}
+
+.xeber__icons{
+    display: flex;
+    align-items: center;
+margin-bottom: 94px;
+}
+
+.koshe__text_xeber{
+    height: 78px;
+line-height: 19px;
+border-radius: nullpx;
+color: #48474D;
+}
+
+.xeber__img{
+
+}
