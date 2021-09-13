@@ -40,6 +40,8 @@ function App() {
         <Route exact path="/tedbirler">
           <Tedbirler />
         </Route>
+
+        
       </Router>
     </>
   );
